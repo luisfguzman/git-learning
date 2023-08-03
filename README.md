@@ -1,5 +1,7 @@
 This is my new Project v1.0
 
-some other changes in the bug fix branch
+Another thing here
 
-Fixed the for loop, it was infinite!!!!
+Adding connection to DB
+
+Fixed DB connection URL
