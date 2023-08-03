@@ -1,4 +1,3 @@
 //Hello World
 console.log("Hello World!");
-
-//hello world 2
+// both changes are accepted from vscode
